@@ -1,0 +1,240 @@
+Результати виконання запитів:
+
+Завдання користувача:
+(4, 'Instead mother continue.', 'Us song a stuff product fall. Matter market garden pay cost address help.\nAmerican consider rather direction guess market yourself. Hit late from measure head two concern pretty.', 1, 18)
+(39, 'Friend daughter before.', 'Human edge leg beat make plant word. Employee record make Democrat house. Factor well least seat certain point.', 1, 18)
+Завдання зі статусом 'new':
+(3, 'Yard recently drive beautiful she sure.', 'Red detail art forward someone know pretty. Read off authority himself knowledge.\nOpen benefit large them song. Thousand close maintain. Contain low may project.\nAny all represent fast.', 1, 7)
+(4, 'Instead mother continue.', 'Us song a stuff product fall. Matter market garden pay cost address help.\nAmerican consider rather direction guess market yourself. Hit late from measure head two concern pretty.', 1, 18)
+(8, 'As remember available land.', 'Laugh time upon land mother political daughter recent. Compare statement summer last better. Happy increase high old out face professor poor.', 1, 25)
+(11, 'Station responsibility per hit to this.', 'Two range fire understand his entire best. Decide south whom health control foot at. Mean question over factor.', 1, 14)
+(13, 'Factor father hope scene lay record.', 'Then analysis piece role specific finally. Language total son nation pull beat.', 1, 21)
+(14, 'Pattern continue radio everyone stock impact.', 'Maybe near I protect. White rest natural character staff. Once audience time serve join wrong must.\nThing light ten security.', 1, 8)
+(17, 'Across he past also.', 'Wide option seven special. Town service together radio.\nHouse toward president point. Late computer single.', 1, 14)
+(19, 'Your lay opportunity billion not.', 'Former he break water kitchen. Beyond writer maybe arm authority.\nCompany social ability. Worker couple bag gas number before.\nPrevent PM go try film player. Cost subject image machine.', 1, 14)
+(20, 'Traditional center ask expect forget weight election.', 'Century use PM although modern beautiful respond. Close tonight already senior history region nature.\nMorning pattern serve. Song newspaper success child boy.', 1, 15)
+(22, 'Quickly threat wait treat.', 'Now officer main building expert. Professional term away necessary red level arrive money.', 1, 17)
+(23, 'Stock moment hair them.', 'Official no sound discussion. Their two that boy media choose election. Theory quality recently almost culture cup.', 1, 30)
+(24, 'Rise area fear.', 'Teacher our long skin number each.\nBreak site commercial turn its property. Policy marriage beyond cultural determine page. Remain maintain feel cost.', 1, 8)
+(28, 'Around store black.', 'Avoid main maybe role seem. Commercial begin even at build foreign investment buy. Themselves cell guess.\nCampaign poor while character me sell.', 1, 11)
+(30, 'Remain why community magazine possible future.', 'Although figure officer owner west affect. Evening available against next price everyone increase.', 1, 12)
+(31, 'Impact former draw real.', 'Camera back again what institution wide test. Yeah specific pressure sort great coach water. Argue skill skill defense.', 1, 29)
+(37, 'North matter try what bag.', 'Mean reduce organization continue. Care thank current responsibility season then soon.\nMrs safe nearly including throw. Right themselves city hit.', 1, 27)
+(38, 'Continue involve step prove forget woman.', 'Usually five material size me have upon. Camera realize point.\nWould suddenly least seek response. Pattern goal meeting never provide nature. Floor fall kid to. Toward improve hold hand.', 1, 21)
+(39, 'Friend daughter before.', 'Human edge leg beat make plant word. Employee record make Democrat house. Factor well least seat certain point.', 1, 18)
+(40, 'Threat process none.', 'Green mother message thought site. There foreign current party own nature.\nUnder seem likely Mr wrong kind friend forget. Continue foreign authority last anyone. Guess personal suffer.', 1, 11)
+(41, 'Food director air worker company imagine.', 'Task there price morning north. Follow officer television condition teach turn. Always style event upon.', 1, 13)
+(48, 'Site add reality card.', 'Doctor almost clear. Carry build subject true range necessary lead ago. Big season every American.\nRead set response deal want. Ago stay window model science hold. This improve talk lawyer indicate.', 1, 2)
+(51, 'New Task', 'Task description', 1, 1)
+(52, 'New Task', 'Task description', 1, 1)
+(53, 'New Task', 'Task description', 1, 1)
+(54, 'New Task', 'Task description', 1, 1)
+(55, 'New Task', 'Task description', 1, 1)
+(56, 'New Task', 'Task description', 1, 1)
+Статус завдання з ID 1 оновлено на 'in progress'.
+Користувачі без завдань:
+(5, 'Stephen Holland Jr.', 'shahamber@example.org')
+(10, 'Derrick Mosley', 'edward48@example.net')
+(19, 'Julie Good', 'matthewyoung@example.org')
+(20, 'Robert Frey', 'wdavis@example.net')
+(24, 'Rebecca White', 'rlarson@example.com')
+(31, 'Mary Coleman', 'xgutierrez@example.net')
+(32, 'Charles Bell', 'lowemelanie@example.org')
+(33, 'Regina Durham', 'cassidybailey@example.com')
+(34, 'Nicholas Cole', 'psolomon@example.org')
+(35, 'Kyle Dunn', 'katherinerobertson@example.org')
+(36, 'Veronica Rowland', 'rhowell@example.com')
+(37, 'Jared Flores', 'dakotahood@example.net')
+(38, 'Jacqueline Cole', 'jasonroberts@example.org')
+(39, 'Dr. Patrick Arnold MD', 'elizabeth06@example.org')
+(40, 'Kelsey Parker', 'gbonilla@example.net')
+(41, 'Stacy Crawford', 'ocook@example.org')
+(42, 'Alan Liu', 'johnsullivan@example.com')
+(43, 'Ashley Patel', 'ntorres@example.com')
+(44, 'Frank Strickland', 'lisaweaver@example.net')
+(45, 'Alexandra Tran', 'ortizholly@example.net')
+(46, 'Holly Hopkins', 'adam01@example.net')
+(47, 'Jennifer Smith', 'tiffanypeterson@example.org')
+(48, 'Michelle Randall', 'stephanie92@example.net')
+(49, 'Kayla Singh', 'jamesjones@example.net')
+(50, 'Mark Bauer', 'villanuevaalice@example.com')
+(51, 'Abigail Curtis', 'fosterjoshua@example.org')
+(52, 'Aaron Clark', 'wareolivia@example.com')
+(53, 'Sergio Hunter', 'johnsonkevin@example.com')
+(54, 'Shannon Conner', 'joshua75@example.net')
+(55, 'Dylan Russell', 'williamsonstephen@example.com')
+(56, 'Sharon Estrada', 'susan83@example.com')
+(57, 'Stephanie Garner', 'zbell@example.net')
+(58, 'Mary Kim', 'wschultz@example.org')
+(59, 'Chad Brown', 'philippayne@example.org')
+(60, 'Travis Smith', 'hector00@example.com')
+Завдання 'New Task' додано для користувача з ID 1.
+Незавершені завдання:
+(3, 'Yard recently drive beautiful she sure.', 'Red detail art forward someone know pretty. Read off authority himself knowledge.\nOpen benefit large them song. Thousand close maintain. Contain low may project.\nAny all represent fast.', 1, 7)
+(4, 'Instead mother continue.', 'Us song a stuff product fall. Matter market garden pay cost address help.\nAmerican consider rather direction guess market yourself. Hit late from measure head two concern pretty.', 1, 18)
+(5, 'Teach even full walk his place.', 'Service address store gas hold. Century writer partner site issue remember. Table financial visit term get.', 2, 9)
+(6, 'Ready card PM study.', 'Study message wife around their college memory. Meeting those score become structure. Final member thank participant real fly middle.', 2, 15)
+(7, 'Law much sing dinner at.', 'Simple statement trip coach create. Four control chair between past entire sister.\nGame work cause agree. Throw claim believe management.', 2, 6)
+(8, 'As remember available land.', 'Laugh time upon land mother political daughter recent. Compare statement summer last better. Happy increase high old out face professor poor.', 1, 25)
+(9, 'Bring cold lawyer send.', 'International record story beyond. Me skill kid throw network myself beyond think.\nHold vote goal would with. Recently the strong contain improve likely.', 2, 23)
+(10, 'Establish job top.', 'Player partner consumer dream away. Note spring trouble.', 2, 17)
+(11, 'Station responsibility per hit to this.', 'Two range fire understand his entire best. Decide south whom health control foot at. Mean question over factor.', 1, 14)
+(12, 'And behavior military stay.', 'Movement best door ago specific ability some important. A main reduce surface really. Medical executive white record win.', 2, 22)
+(13, 'Factor father hope scene lay record.', 'Then analysis piece role specific finally. Language total son nation pull beat.', 1, 21)
+(14, 'Pattern continue radio everyone stock impact.', 'Maybe near I protect. White rest natural character staff. Once audience time serve join wrong must.\nThing light ten security.', 1, 8)
+(16, 'None government media.', 'Allow look pay name money. Painting test information college.\nIf really step change whose focus. Movement herself attention trade smile oil.', 2, 26)
+(17, 'Across he past also.', 'Wide option seven special. Town service together radio.\nHouse toward president point. Late computer single.', 1, 14)
+(18, 'He beyond very edge develop.', 'Toward great research white. Follow might chance what arrive scientist chair. Property dinner break within life.', 2, 1)
+(19, 'Your lay opportunity billion not.', 'Former he break water kitchen. Beyond writer maybe arm authority.\nCompany social ability. Worker couple bag gas number before.\nPrevent PM go try film player. Cost subject image machine.', 1, 14)
+(20, 'Traditional center ask expect forget weight election.', 'Century use PM although modern beautiful respond. Close tonight already senior history region nature.\nMorning pattern serve. Song newspaper success child boy.', 1, 15)
+(21, 'Mrs example three age.', 'Public finish their probably man thing. Join page third maintain. Movie lose last.\nMajor evening get father television. Might common interview action store hour. Realize kind million page spring.', 2, 2)
+(22, 'Quickly threat wait treat.', 'Now officer main building expert. Professional term away necessary red level arrive money.', 1, 17)
+(23, 'Stock moment hair them.', 'Official no sound discussion. Their two that boy media choose election. Theory quality recently almost culture cup.', 1, 30)
+(24, 'Rise area fear.', 'Teacher our long skin number each.\nBreak site commercial turn its property. Policy marriage beyond cultural determine page. Remain maintain feel cost.', 1, 8)
+(25, 'Remain expert thus son debate.', 'Let writer wonder nation grow speak. Sound decade write method share. Source main kitchen officer next.', 2, 14)
+(27, 'Create step forward sister like call.', 'Finish than stuff feel prevent ago avoid affect. Why recognize spring.\nMaintain husband site stock study. Actually choice election me.', 2, 27)
+(28, 'Around store black.', 'Avoid main maybe role seem. Commercial begin even at build foreign investment buy. Themselves cell guess.\nCampaign poor while character me sell.', 1, 11)
+(30, 'Remain why community magazine possible future.', 'Although figure officer owner west affect. Evening available against next price everyone increase.', 1, 12)
+(31, 'Impact former draw real.', 'Camera back again what institution wide test. Yeah specific pressure sort great coach water. Argue skill skill defense.', 1, 29)
+(33, 'Present responsibility section top others professor.', 'Support follow through whom unit raise forward such. Other easy admit threat TV. Key address song building risk my.', 2, 12)
+(34, 'National enter off bit.', 'Already news lawyer quickly however east. Subject serve might relationship health. Once design strategy expert truth Democrat.', 2, 17)
+(36, 'Happen gas eat this recent.', 'Apply against real get traditional into second. Course event piece whole necessary information. Hotel ground performance about staff bank resource.', 2, 12)
+(37, 'North matter try what bag.', 'Mean reduce organization continue. Care thank current responsibility season then soon.\nMrs safe nearly including throw. Right themselves city hit.', 1, 27)
+(38, 'Continue involve step prove forget woman.', 'Usually five material size me have upon. Camera realize point.\nWould suddenly least seek response. Pattern goal meeting never provide nature. Floor fall kid to. Toward improve hold hand.', 1, 21)
+(39, 'Friend daughter before.', 'Human edge leg beat make plant word. Employee record make Democrat house. Factor well least seat certain point.', 1, 18)
+(40, 'Threat process none.', 'Green mother message thought site. There foreign current party own nature.\nUnder seem likely Mr wrong kind friend forget. Continue foreign authority last anyone. Guess personal suffer.', 1, 11)
+(41, 'Food director air worker company imagine.', 'Task there price morning north. Follow officer television condition teach turn. Always style event upon.', 1, 13)
+(42, 'Operation deal difficult memory traditional picture.', 'Without protect stuff. Tree check fall by concern move. Measure into treat word not father task.\nSix happen long miss evening ready.', 2, 4)
+(44, 'Choice agree through career them those.', 'Focus goal body whom mission chance east. College rather nothing soldier. Run product exist little. Remain less color explain still great baby western.', 2, 3)
+(45, 'Risk commercial keep.', 'Fly itself use. Smile movement challenge issue.\nPrepare section until though human. Remain work rock establish.', 2, 13)
+(46, 'Course research decide hundred.', 'Institution manage common other. Color brother once safe especially.\nImportant role government break degree share. Stay defense exist data.\nMiddle anyone moment huge.', 2, 28)
+(47, 'Strong herself avoid understand above.', 'From set ability then admit although well. New will until next foot down finish human. Seek view wear much produce matter.\nDoctor business enjoy live north fire. Race give guy quite table those.', 2, 17)
+(48, 'Site add reality card.', 'Doctor almost clear. Carry build subject true range necessary lead ago. Big season every American.\nRead set response deal want. Ago stay window model science hold. This improve talk lawyer indicate.', 1, 2)
+(49, 'Stay positive late general establish.', 'Trade save speak two.\nAbility ten main form often society. Firm light how land. Region today only really great.', 2, 13)
+(51, 'New Task', 'Task description', 1, 1)
+(52, 'New Task', 'Task description', 1, 1)
+(53, 'New Task', 'Task description', 1, 1)
+(54, 'New Task', 'Task description', 1, 1)
+(55, 'New Task', 'Task description', 1, 1)
+(56, 'New Task', 'Task description', 1, 1)
+(57, 'New Task', 'Task description', 1, 1)
+Завдання з ID 1 видалено.
+Користувачі з електронною поштою, що містить '%example.com':
+(3, 'Cynthia Harris', 'davisshelley@example.com')
+(6, 'Brandy Mcgee', 'danielsstephanie@example.com')
+(14, 'Christopher Cervantes', 'danielhowell@example.com')
+(17, 'Melissa Brown', 'andrea43@example.com')
+(24, 'Rebecca White', 'rlarson@example.com')
+(28, 'Melissa Carter', 'jadephillips@example.com')
+(33, 'Regina Durham', 'cassidybailey@example.com')
+(36, 'Veronica Rowland', 'rhowell@example.com')
+(42, 'Alan Liu', 'johnsullivan@example.com')
+(43, 'Ashley Patel', 'ntorres@example.com')
+(50, 'Mark Bauer', 'villanuevaalice@example.com')
+(52, 'Aaron Clark', 'wareolivia@example.com')
+(53, 'Sergio Hunter', 'johnsonkevin@example.com')
+(55, 'Dylan Russell', 'williamsonstephen@example.com')
+(56, 'Sharon Estrada', 'susan83@example.com')
+(60, 'Travis Smith', 'hector00@example.com')
+Ім'я користувача з ID 1 оновлено на 'New Name'.
+Кількість завдань за статусами:
+Статус ID 1: 28 завдань
+Статус ID 3: 8 завдань
+Статус ID 2: 20 завдань
+Завдання, призначені користувачам з електронною поштою, що містить 'example.com':
+(7, 'Law much sing dinner at.', 'Simple statement trip coach create. Four control chair between past entire sister.\nGame work cause agree. Throw claim believe management.', 2, 6)
+(10, 'Establish job top.', 'Player partner consumer dream away. Note spring trouble.', 2, 17)
+(11, 'Station responsibility per hit to this.', 'Two range fire understand his entire best. Decide south whom health control foot at. Mean question over factor.', 1, 14)
+(17, 'Across he past also.', 'Wide option seven special. Town service together radio.\nHouse toward president point. Late computer single.', 1, 14)
+(19, 'Your lay opportunity billion not.', 'Former he break water kitchen. Beyond writer maybe arm authority.\nCompany social ability. Worker couple bag gas number before.\nPrevent PM go try film player. Cost subject image machine.', 1, 14)
+(22, 'Quickly threat wait treat.', 'Now officer main building expert. Professional term away necessary red level arrive money.', 1, 17)
+(25, 'Remain expert thus son debate.', 'Let writer wonder nation grow speak. Sound decade write method share. Source main kitchen officer next.', 2, 14)
+(34, 'National enter off bit.', 'Already news lawyer quickly however east. Subject serve might relationship health. Once design strategy expert truth Democrat.', 2, 17)
+(35, 'Feeling push organization already speech.', 'Shake film seek indeed six teacher. Its authority nor including. Response beyond easy board page.', 3, 14)
+(43, 'Lose thought town team add.', 'Wind imagine company pull financial enter style. Any anything forward opportunity above culture indicate. Point black run from customer tonight past. Guess throughout dog cut culture their near.', 3, 14)
+(44, 'Choice agree through career them those.', 'Focus goal body whom mission chance east. College rather nothing soldier. Run product exist little. Remain less color explain still great baby western.', 2, 3)
+(46, 'Course research decide hundred.', 'Institution manage common other. Color brother once safe especially.\nImportant role government break degree share. Stay defense exist data.\nMiddle anyone moment huge.', 2, 28)
+(47, 'Strong herself avoid understand above.', 'From set ability then admit although well. New will until next foot down finish human. Seek view wear much produce matter.\nDoctor business enjoy live north fire. Race give guy quite table those.', 2, 17)
+Завдання без опису:
+Користувачі та їхні завдання у статусі 'in progress':
+(9, 'Melissa Harvey', 'sydney79@example.net', 5, 'Teach even full walk his place.', 'Service address store gas hold. Century writer partner site issue remember. Table financial visit term get.', 2, 9)
+(15, 'Doris Vazquez', 'james28@example.org', 6, 'Ready card PM study.', 'Study message wife around their college memory. Meeting those score become structure. Final member thank participant real fly middle.', 2, 15)
+(6, 'Brandy Mcgee', 'danielsstephanie@example.com', 7, 'Law much sing dinner at.', 'Simple statement trip coach create. Four control chair between past entire sister.\nGame work cause agree. Throw claim believe management.', 2, 6)
+(23, 'Elizabeth Harrison', 'xphillips@example.net', 9, 'Bring cold lawyer send.', 'International record story beyond. Me skill kid throw network myself beyond think.\nHold vote goal would with. Recently the strong contain improve likely.', 2, 23)
+(17, 'Melissa Brown', 'andrea43@example.com', 10, 'Establish job top.', 'Player partner consumer dream away. Note spring trouble.', 2, 17)
+(22, 'Cathy Stout', 'millerkristen@example.net', 12, 'And behavior military stay.', 'Movement best door ago specific ability some important. A main reduce surface really. Medical executive white record win.', 2, 22)
+(26, 'Kelly Gardner', 'campbellmelissa@example.org', 16, 'None government media.', 'Allow look pay name money. Painting test information college.\nIf really step change whose focus. Movement herself attention trade smile oil.', 2, 26)
+(1, 'New Name', 'scott73@example.net', 18, 'He beyond very edge develop.', 'Toward great research white. Follow might chance what arrive scientist chair. Property dinner break within life.', 2, 1)
+(2, 'Sarah Johnson', 'orobinson@example.org', 21, 'Mrs example three age.', 'Public finish their probably man thing. Join page third maintain. Movie lose last.\nMajor evening get father television. Might common interview action store hour. Realize kind million page spring.', 2, 2)
+(14, 'Christopher Cervantes', 'danielhowell@example.com', 25, 'Remain expert thus son debate.', 'Let writer wonder nation grow speak. Sound decade write method share. Source main kitchen officer next.', 2, 14)
+(27, 'Jason Lewis', 'evanblake@example.org', 27, 'Create step forward sister like call.', 'Finish than stuff feel prevent ago avoid affect. Why recognize spring.\nMaintain husband site stock study. Actually choice election me.', 2, 27)
+(12, 'Jordan Wright', 'josephwallace@example.net', 33, 'Present responsibility section top others professor.', 'Support follow through whom unit raise forward such. Other easy admit threat TV. Key address song building risk my.', 2, 12)
+(17, 'Melissa Brown', 'andrea43@example.com', 34, 'National enter off bit.', 'Already news lawyer quickly however east. Subject serve might relationship health. Once design strategy expert truth Democrat.', 2, 17)
+(12, 'Jordan Wright', 'josephwallace@example.net', 36, 'Happen gas eat this recent.', 'Apply against real get traditional into second. Course event piece whole necessary information. Hotel ground performance about staff bank resource.', 2, 12)
+(4, 'Brandon Jackson', 'colleenwallace@example.org', 42, 'Operation deal difficult memory traditional picture.', 'Without protect stuff. Tree check fall by concern move. Measure into treat word not father task.\nSix happen long miss evening ready.', 2, 4)
+(3, 'Cynthia Harris', 'davisshelley@example.com', 44, 'Choice agree through career them those.', 'Focus goal body whom mission chance east. College rather nothing soldier. Run product exist little. Remain less color explain still great baby western.', 2, 3)
+(13, 'Michael Wolfe', 'kimberly84@example.net', 45, 'Risk commercial keep.', 'Fly itself use. Smile movement challenge issue.\nPrepare section until though human. Remain work rock establish.', 2, 13)
+(28, 'Melissa Carter', 'jadephillips@example.com', 46, 'Course research decide hundred.', 'Institution manage common other. Color brother once safe especially.\nImportant role government break degree share. Stay defense exist data.\nMiddle anyone moment huge.', 2, 28)
+(17, 'Melissa Brown', 'andrea43@example.com', 47, 'Strong herself avoid understand above.', 'From set ability then admit although well. New will until next foot down finish human. Seek view wear much produce matter.\nDoctor business enjoy live north fire. Race give guy quite table those.', 2, 17)
+(13, 'Michael Wolfe', 'kimberly84@example.net', 49, 'Stay positive late general establish.', 'Trade save speak two.\nAbility ten main form often society. Firm light how land. Region today only really great.', 2, 13)
+Користувачі та кількість їхніх завдань:
+Користувач: Shannon Conner, Завдань: 0
+Користувач: Chad Pugh, Завдань: 1
+Користувач: Brandon Jackson, Завдань: 1
+Користувач: Nicholas Cole, Завдань: 0
+Користувач: Abigail Curtis, Завдань: 0
+Користувач: Aaron Clark, Завдань: 0
+Користувач: Derrick Mosley, Завдань: 0
+Користувач: Kyle Dunn, Завдань: 0
+Користувач: Alexandra Tran, Завдань: 0
+Користувач: Brandy Mcgee, Завдань: 1
+Користувач: Dr. Patrick Arnold MD, Завдань: 0
+Користувач: Veronica Rowland, Завдань: 0
+Користувач: Mary Coleman, Завдань: 0
+Користувач: Mark Bauer, Завдань: 0
+Користувач: Travis Smith, Завдань: 0
+Користувач: Christopher Cervantes, Завдань: 6
+Користувач: Cathy Stout, Завдань: 1
+Користувач: Chad Brown, Завдань: 0
+Користувач: Michael Wolfe, Завдань: 3
+Користувач: Sarah Johnson, Завдань: 2
+Користувач: Joseph Bailey, Завдань: 1
+Користувач: Frank Strickland, Завдань: 0
+Користувач: Kayla Charles, Завдань: 3
+Користувач: Alan Liu, Завдань: 0
+Користувач: Stacy Crawford, Завдань: 0
+Користувач: Kelsey Parker, Завдань: 0
+Користувач: Holly Hopkins, Завдань: 0
+Користувач: Ashley Patel, Завдань: 0
+Користувач: Sergio Hunter, Завдань: 0
+Користувач: Charles Bell, Завдань: 0
+Користувач: Melissa Harvey, Завдань: 1
+Користувач: Carl Fields, Завдань: 1
+Користувач: Jacqueline Cole, Завдань: 0
+Користувач: Doris Vazquez, Завдань: 2
+Користувач: Michelle Randall, Завдань: 0
+Користувач: Jordan Wright, Завдань: 4
+Користувач: Kelly Gardner, Завдань: 1
+Користувач: Rebecca White, Завдань: 0
+Користувач: Stephanie Garner, Завдань: 0
+Користувач: Julie Good, Завдань: 0
+Користувач: Mr. Alexander Williams, Завдань: 3
+Користувач: Paula Doyle, Завдань: 1
+Користувач: Joel Rice, Завдань: 3
+Користувач: Kayla Singh, Завдань: 0
+Користувач: Jennifer Smith, Завдань: 0
+Користувач: Cynthia Harris, Завдань: 1
+Користувач: Melissa Brown, Завдань: 4
+Користувач: Jared Flores, Завдань: 0
+Користувач: Robert Frey, Завдань: 0
+Користувач: Melissa Carter, Завдань: 1
+Користувач: Regina Durham, Завдань: 0
+Користувач: New Name, Завдань: 8
+Користувач: Stephen Holland Jr., Завдань: 0
+Користувач: Adriana Jones, Завдань: 2
+Користувач: Dylan Russell, Завдань: 0
+Користувач: Jason Lewis, Завдань: 2
+Користувач: Elizabeth Harrison, Завдань: 1
+Користувач: Sharon Estrada, Завдань: 0
+Користувач: Mary Kim, Завдань: 0
+Користувач: Steven Flores, Завдань: 2
